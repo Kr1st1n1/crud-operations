@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Acetone a.r.",
+      "price": "12.99",
+      "qty": "5"
+    },
+    {
+      "id": 2,
+      "productName": "Aluminium, powder a.r.",
+      "price": "86.25",
+      "qty": "2"
+    },
+    {
+      "id": 3,
+      "productName": "Aluminium, powder a.r.",
+      "price": "86.25",
+      "qty": "1"
+    },
+    {
+      "productName": "test1",
+      "price": "15",
+      "qty": "7",
+      "id": 4
+    }
+  ]
+}
